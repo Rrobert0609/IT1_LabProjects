@@ -1,0 +1,10 @@
+C:\Lucrarea 6 C#\Lucrarea 6 C#\bin\Debug\Lucrarea 6 C#.exe.config
+C:\Lucrarea 6 C#\Lucrarea 6 C#\bin\Debug\Lucrarea 6 C#.exe
+C:\Lucrarea 6 C#\Lucrarea 6 C#\bin\Debug\Lucrarea 6 C#.pdb
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea 6 C#.csproj.AssemblyReference.cache
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea_6_C_.Form1.resources
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea_6_C_.Properties.Resources.resources
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea 6 C#.csproj.GenerateResource.cache
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea 6 C#.csproj.CoreCompileInputs.cache
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea 6 C#.exe
+C:\Lucrarea 6 C#\Lucrarea 6 C#\obj\Debug\Lucrarea 6 C#.pdb

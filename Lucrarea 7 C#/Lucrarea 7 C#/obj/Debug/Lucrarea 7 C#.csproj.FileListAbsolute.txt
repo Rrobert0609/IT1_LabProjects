@@ -1,0 +1,10 @@
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\bin\Debug\Lucrarea 7 C#.exe.config
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\bin\Debug\Lucrarea 7 C#.exe
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\bin\Debug\Lucrarea 7 C#.pdb
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea 7 C#.csproj.AssemblyReference.cache
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea_7_C_.Form1.resources
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea_7_C_.Properties.Resources.resources
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea 7 C#.csproj.GenerateResource.cache
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea 7 C#.csproj.CoreCompileInputs.cache
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea 7 C#.exe
+C:\Users\Robert\source\repos\Lucrarea 7 C#\Lucrarea 7 C#\obj\Debug\Lucrarea 7 C#.pdb
